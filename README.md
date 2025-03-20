@@ -14,9 +14,9 @@ Due to the lack of data, participants can leverage multiple datasets to improve 
 
 ## Experiments
 
-I used correlation to determine which features would be selected for my regression model. After several tests, I chose ExtraTreesRegressor as the main algorithm (except for version 1). Additionally, all versions used dataset #1.
+I used correlation to determine which features would be selected for my regression model. After several tests, I chose ExtraTreesRegressor as the main algorithm (except for version 1). Additionally, all versions used dataset #1. For the train-test split, I primarily used an 80-20 ratio.
 
-For the train-test split, I primarily used an 80-20 ratio.
+For more details, this is my [Kaggle notebook](https://www.kaggle.com/code/nguyenthaitan/ey-challenge-notebook).
 
 ### Version 1
 
